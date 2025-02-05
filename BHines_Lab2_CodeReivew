@@ -1,0 +1,4 @@
+Ughhhh alyssa, i was looking forward to reviewing yours cause i knew the comments were going to brighten my day lol However, there seems to be some sort of issue with the adapter i believe, and it will not run.
+Could be a cloning issue on my end, but i cant get it to run, errors mention "cityDBDataSet is undeclared/unassigned or could not find .CityTableAdapter,
+Resource file "Properies/Reslurces.resx" cannot be found etc. I believe it might need to have the dataset populated during the load event? idk. Aside from that, the form itself looks clean,
+and the code is very efficient/no clutter. 
