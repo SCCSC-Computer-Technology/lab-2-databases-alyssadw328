@@ -1,0 +1,12 @@
+C:\Users\alyss\source\repos\A-Walker-Lab-2\bin\Debug\CityDB.mdf
+C:\Users\alyss\source\repos\A-Walker-Lab-2\bin\Debug\CityDB_log.ldf
+C:\Users\alyss\source\repos\A-Walker-Lab-2\bin\Debug\A-Walker-Lab-2.exe.config
+C:\Users\alyss\source\repos\A-Walker-Lab-2\bin\Debug\A-Walker-Lab-2.exe
+C:\Users\alyss\source\repos\A-Walker-Lab-2\bin\Debug\A-Walker-Lab-2.pdb
+C:\Users\alyss\source\repos\A-Walker-Lab-2\obj\Debug\A-Walker-Lab-2.csproj.AssemblyReference.cache
+C:\Users\alyss\source\repos\A-Walker-Lab-2\obj\Debug\A_Walker_Lab_2.Form1.resources
+C:\Users\alyss\source\repos\A-Walker-Lab-2\obj\Debug\A_Walker_Lab_2.Properties.Resources.resources
+C:\Users\alyss\source\repos\A-Walker-Lab-2\obj\Debug\A-Walker-Lab-2.csproj.GenerateResource.cache
+C:\Users\alyss\source\repos\A-Walker-Lab-2\obj\Debug\A-Walker-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\alyss\source\repos\A-Walker-Lab-2\obj\Debug\A-Walker-Lab-2.exe
+C:\Users\alyss\source\repos\A-Walker-Lab-2\obj\Debug\A-Walker-Lab-2.pdb
